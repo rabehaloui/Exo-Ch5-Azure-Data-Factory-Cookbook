@@ -1,0 +1,21 @@
+{
+	"name": "DestinationDataset_cy3",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlobStorageLink",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"container": "data"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"quoteChar": "\""
+		},
+		"schema": []
+	}
+}
