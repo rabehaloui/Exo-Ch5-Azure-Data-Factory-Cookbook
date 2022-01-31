@@ -1,0 +1,9 @@
+{
+	"name": "alouiadf",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "09302e9d-0f60-4a6d-8182-c784147bb47b",
+		"tenantId": "00d2f132-45c7-4fbf-9723-b4e2455d2a3e"
+	}
+}
